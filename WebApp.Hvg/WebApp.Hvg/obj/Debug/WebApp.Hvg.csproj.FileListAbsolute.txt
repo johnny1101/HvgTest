@@ -1,0 +1,80 @@
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\csc.exe
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\vbc.exe
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\WebApp.Hvg.dll.config
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\WebApp.Hvg.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\WebApp.Hvg.pdb
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\Newtonsoft.Json.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\System.Net.Http.Formatting.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.WebHost.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\Newtonsoft.Json.xml
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\System.Net.Http.Formatting.xml
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.xml
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.WebHost.xml
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\obj\Debug\WebApp.Hvg.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\obj\Debug\WebApp.Hvg.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\obj\Debug\WebApp.Hvg.pdb
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.SqlServer.dll
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.xml
+C:\Users\Johnny\documents\visual studio 2015\Projects\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.SqlServer.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\obj\Debug\WebApp.Hvg.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\obj\Debug\WebApp.Hvg.pdb
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\csc.exe
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\vbc.exe
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\VBCSCompiler.exe
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\WebApp.Hvg.dll.config
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\WebApp.Hvg.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\WebApp.Hvg.pdb
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.SqlServer.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Newtonsoft.Json.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\System.Net.Http.Formatting.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.WebHost.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\EntityFramework.SqlServer.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Newtonsoft.Json.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\System.Net.Http.Formatting.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\System.Web.Http.WebHost.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Json.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.StateMachine.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.ManateeJson.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.RestSharp.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\RestSharp.dll
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Json.pdb
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Json.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.StateMachine.pdb
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.StateMachine.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.pdb
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.ManateeJson.pdb
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.ManateeJson.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.RestSharp.pdb
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\Manatee.Trello.RestSharp.xml
+C:\Users\Johnny\Source\Repos\HvgTest\WebApp.Hvg\WebApp.Hvg\bin\RestSharp.xml

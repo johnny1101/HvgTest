@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WebApp.Hvg.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TrelloCardUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://trello.com/c/</Value>
+    </Setting>
+    <Setting Name="BaseUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost</Value>
+    </Setting>
+    <Setting Name="TaskIdCardUrlSeparator" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">:</Value>
+    </Setting>
+    <Setting Name="TrelloAppKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6fc1e2592e97e4360191996c083d99d2</Value>
+    </Setting>
+    <Setting Name="TrelloUserToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">e16ee1685b29a159b6f2abcc2e99d08c525ac59f6f62edbaa7fe0aba3980a7d6</Value>
+    </Setting>
+    <Setting Name="CommitFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">$Új kommit:{0}({1})\n${2}</Value>
+    </Setting>
+    <Setting Name="CardUrlCommentSeparator" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">
+        </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
